@@ -93,7 +93,7 @@ With a simple google search **"google maps underwater street view"** we get two 
 
 ![Scuba Diving article on Google Maps underwater Street View](images/image06.png)
 
-The first link teaches us about **Underwater Earth**, a non-profit organization that partnered with Google to research and study the ocean and underwater deeps. This gives us a root to search from — probably in Street View, where we can see the posts of their account during sep-2017.
+The first link teaches us about **Underwater Earth**, a non-profit organization that partnered with Google to research and study the ocean and underwater deeps. This gives us a root to search from probably in Street View, where we can see the posts of their account during sep-2017.
 
 While the second link is about an article that discusses the general **Catlin Seaview Survey** and Google's "Street View Oceans" project, which was published in 2018, thus aligning with the timeline and confirming the Underwater Earth significance for our challenge.
 
@@ -151,4 +151,4 @@ Since it mentioned "late" in the description, most likely our target is one of t
 ITC{-21.2043,-159.8259}
 ```
 
-> **NOTE:** apparently the funny name referred to **Cook Islands** — the smurf atlantis fits it better.
+> **NOTE:** apparently the funny name referred to **Cook Islands**  the smurf atlantis fits it better.
