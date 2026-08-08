@@ -41,15 +41,15 @@ Which means the cords are at the range of: `1xx, -1xx` OR `-xx, -1xx`
 The description is divided into 3 parts:
 
 **The first part**
-*"Beyond the shoreline where the dark stone meets the tide, a silent, survey was conducted to map the architecture of the deep."*
+_"Beyond the shoreline where the dark stone meets the tide, a silent, survey was conducted to map the architecture of the deep."_
 Gives information about some sort of research, specifically a survey done to study the deeps of the area.
 
 **The second part**
-*"In late September 2017, near a funny named place, a digital gaze captured this subterranean passage, where gray, tiered plates stack like ancient steps"*
+_"In late September 2017, near a funny named place, a digital gaze captured this subterranean passage, where gray, tiered plates stack like ancient steps"_
 This part basically tells us a picture, recording or a satellite shot was taken of this place during sep/2017, and the name of the area is precisely worth a giggle.
 
 **The third part**
-*"To find your way, look for the point where the monochrome labyrinth is broken by a single, electric-neon anomaly resting at the base of the pillars"*
+_"To find your way, look for the point where the monochrome labyrinth is broken by a single, electric-neon anomaly resting at the base of the pillars"_
 Some kind of riddle and wordplay to describe the place / area itself.
 
 ---
@@ -75,7 +75,7 @@ Didnt give us any useful information.
 No results as well.
 
 **Search engines:** no meaningful results was found using google lens, yandex or bing.
-*Note: the ai overview was turned off in all cases.*
+_Note: the ai overview was turned off in all cases._
 
 ---
 
