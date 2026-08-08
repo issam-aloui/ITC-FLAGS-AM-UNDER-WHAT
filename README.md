@@ -1,11 +1,11 @@
-# 🌊 AM UNDER WHAT?!
+#  AM UNDER WHAT?!
 
 **Made by:** SnBork
 **Team:** fr0str4v4
 
 ---
 
-## 📋 Challenge Description
+##  Challenge Description
 
 > Beyond the shoreline where the dark stone meets the tide, a silent survey was conducted to map the architecture of the deep.
 >
@@ -21,7 +21,7 @@
 
 ---
 
-## 💭 First Thoughts
+##  First Thoughts
 
 We're given an underwater picture of the ocean resembling some shroom-looking corals, like an atlantis that belongs to smurfs.
 
@@ -36,7 +36,7 @@ Which means the cords are at the range of: `1xx, -1xx` OR `-xx, -1xx`
 
 ---
 
-## 🔍 Hints from the Description
+##  Clues from the Description
 
 The description is divided into 3 parts:
 
@@ -54,7 +54,7 @@ Some kind of riddle and wordplay to describe the place / area itself.
 
 ---
 
-## 🧩 Solution
+##  Solution
 
 Lets start with the usual routine during any image osint ctf.
 
@@ -145,7 +145,7 @@ Since it mentioned "late" in the description, most likely our target is one of t
 
 ---
 
-## 🚩 Flag
+##  Flag
 
 ```
 ITC{-21.2043,-159.8259}
